@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  font-size: 50px; }
+
+h2 {
+  color: blue; }
+
+.block {
+  background-color: black; }
+  .block h3 {
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
