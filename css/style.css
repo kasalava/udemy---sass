@@ -11,5 +11,7 @@ h2 {
     color: white; }
   .block_color {
     background-color: white; }
+    .block_color button {
+      width: 250px; }
 
 /*# sourceMappingURL=style.css.map */
